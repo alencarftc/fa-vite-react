@@ -33,6 +33,6 @@
       "hidden": true
     }
   ],
-  "commitUrlFormat": "https://github.com/alencarftc/fa-vite-preact/commits/{{hash}}",
-  "compareUrlFormat": "https://github.com/alencarftc/fa-vite-preact/compare/{{previousTag}}...{{currentTag}}"
+  "commitUrlFormat": "https://github.com/alencarftc/fa-vite-react/commits/{{hash}}",
+  "compareUrlFormat": "https://github.com/alencarftc/fa-vite-react/compare/{{previousTag}}...{{currentTag}}"
 }
